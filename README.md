@@ -2,7 +2,7 @@
 
 ![demo](https://github.com/ritzblogs/react-native-addviewtobottom/blob/master/viewtobottom.jpg)  
 
-Find detailed description -https://abodeofmystories.blogspot.com/2020/05/align-text-bottom-screen-react-native.html
+Find detailed description -https://abodeofmystories.blogspot.com/2021/07/react-native-redux-for-api-response.html
 
 ## Install at local
 Open Terminal, then type command:  
